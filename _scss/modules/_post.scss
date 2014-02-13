@@ -12,6 +12,7 @@
 
 .post-title {
 	@extend %post-title-font;
+
 }
 
 .post .post-snippet {
@@ -33,7 +34,7 @@
 
 	& h2 {
 		@include font-size(1.7,1.5);
-
+		margin:.5em 0;
 
 	}
 
