@@ -651,6 +651,10 @@ header {
   color: #444444;
 }
 
+.post-title {
+  margin: .5em 0;
+}
+
 .post .post-snippet {
   position: relative;
   font-style: italic;
@@ -674,7 +678,6 @@ header {
   font-size: 1.7rem;
   line-height: 24px;
   line-height: 1.5rem;
-  margin: .5em 0;
 }
 .post-body blockquote {
   background-color: #dddddd;
