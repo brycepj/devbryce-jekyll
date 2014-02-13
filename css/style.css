@@ -661,6 +661,10 @@ header {
   line-height: 1.5rem;
 }
 
+#about .post-snippet {
+  display: none;
+}
+
 .post-body {
   position: relative;
   margin-top: 3em;
