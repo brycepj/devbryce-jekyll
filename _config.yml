@@ -1,5 +1,0 @@
-name: bryce johnson - front-end web developer
-markdown: redcarpet
-exclude: ['node_modules', 'sass-cache']
-pygments: true
-permalink: none
