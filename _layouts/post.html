@@ -1,0 +1,14 @@
+{% include header.html %}
+
+    <section class="post">
+  
+  	<h2 class="post-title"> {{ page.title }} </h2>
+    <p class="post-snippet">{{ page.snippet }}</p>
+
+	<div class="post-body">
+      {{content}}
+	</div>
+ 
+    </section>
+
+{% include footer.html %}

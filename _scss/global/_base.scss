@@ -1,0 +1,51 @@
+/* base rules are the defaults. They are almost exclusively single element selectors, but could include attribute selectors, pseudo-class-selectors, child selectors or sibling selectors. Be sure to specify a body background. */
+
+
+@import 
+"_normalize",
+"_mixins",
+"_layout",
+"_swatch",
+"_fonts",
+"_states";
+
+/* BASE STYLES */
+
+$baseFontSize:100%;
+$baseLineHeight:100%;
+
+* {
+	color:$white;
+	box-sizing:border-box;
+}
+
+/*make images responsive by default*/
+
+body {
+	width:100%;
+	font-family: 'PT Sans',san-serif;
+	font-size:$baseFontSize;
+	line-height: $baseLineHeight;
+	background-color:$blue-white;
+}
+
+img{
+    max-width:100% !important;
+    height:auto;
+    display:block;
+}
+
+a {
+	color:$blue-dark;
+	text-decoration:none;
+
+	&:hover {
+		color:$blue-medium;
+	}
+}
+
+
+
+p {
+	color:black;
+}

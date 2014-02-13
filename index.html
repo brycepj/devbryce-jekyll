@@ -1,0 +1,22 @@
+---
+layout: default
+title: bryce johnson - front end web developer
+description: this is the content for the home page
+---
+
+
+{% for post in site.posts %} 
+        
+        <div class="post-preview">   
+	        <span class="pp-stripe"></span>
+	        <a href="{{ post.url | remove_first:'/'}}">
+	        	<h2 class="pp-title">{{post.title}}</h2>
+	        </a>
+	        <p class="pp-desc">{{post.snippet}}</p>
+	        <div class="pp-bottom-wrap">
+		        <span class="pp-time">est read time: 5 min</span>
+		        <a class="pp-btn" href="{{ post.url | remove_first:'/'}}">Read more</a>
+	        </div>
+        </div> 
+
+{% endfor %}

@@ -1,0 +1,22 @@
+/* Layout rules divide the page into sections, such as 'header', 'footer', 'sidebar' and 'main content'. Layouts hold one or more modules together. This is the time to use ID's and to set width, float, and height properties. Generally, a layout style only has a single selector: a single ID or class name.  */
+
+
+
+.main {
+	padding:1em 0;
+}
+
+.content {
+	display:block;
+	width:96%; max-width: 1250px;
+	margin:0 auto;
+	padding:0 1em;
+	
+}
+
+.post {
+	display:block;
+	width:70%;
+	margin:1em auto;
+	padding:1em 2em;
+}

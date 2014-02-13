@@ -1,0 +1,47 @@
+header {
+	width:100%;
+	background-color:$blue-dark;
+	text-align: center;
+}
+
+
+.masthead {
+	@extend %logo-font;
+	
+	display:block;
+	margin:0 auto;
+	padding-top:.35em;
+	text-align: center;
+
+	transition:font-size .1s ease-in;
+
+	@include bp-min(850px) {
+		@include font-size(2,3);
+	}
+}
+
+
+.main-menu {
+	
+	
+	margin:0 auto;
+
+
+}
+
+.mm-link {
+	@extend %mm-font;
+	display:inline-block;
+	margin:.5em .4em .6em .4em;
+	transition:color .2s ease-in;
+	&:hover {
+		color:darken($white,15%);
+	}
+
+	@include bp-min(850px) {
+		@include font-size(1.35,1.6);
+		padding-bottom:.25em;
+	}
+}
+
+
