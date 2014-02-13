@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to  the first test test post is now!"
+title:  "Not Welcome to  the first test test post is now!"
 date:   2014-02-01 12:53:23
 categories: test-category
 snippet: Please. Stop. This is the first time I've ever written a post and I don't know why. Maybe you can help me finish it. 
