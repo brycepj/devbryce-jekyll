@@ -1,11 +1,6 @@
 $(document).ready(function(){
 
 
-
-
-
-
-
 //Masonry Configuration and Execution on Home Page
 
 (function(){
@@ -13,6 +8,11 @@ $(document).ready(function(){
 	blogHome.initHome();
 
 })();
+
+
+
+
+
 
 
 

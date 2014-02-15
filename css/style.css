@@ -480,7 +480,7 @@ table {
 
 /* State rules are ways to describe how our modules or layouts will look when in a particlar state. Hidden or expanded? Active or inactive? State styles indicate a JavaScript dependency */
 .mm-link.is-selected {
-  border-bottom: 2px solid #b2d1e5;
+  border-bottom: 1px solid #b2d1e5;
 }
 
 /* BASE STYLES */
