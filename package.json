@@ -10,6 +10,10 @@
     "grunt-contrib-sass": "~0.7.2",
     "grunt-contrib-jshint": "~0.8.0",
     "grunt-autoprefixer": "~0.6.5",
-    "grunt-shell": "~0.6.4"
+    "grunt-shell": "~0.6.4",
+    "grunt-newer": "~0.6.1"
+  },
+  "dependencies": {
+    "time-grunt": "~0.2.9"
   }
 }
