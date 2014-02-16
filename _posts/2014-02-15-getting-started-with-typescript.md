@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Don't start into TypeScript with the spec"
-date:   2014-02-05 12:53:23
+title:  "Don't start learning TypeScript with the spec"
+date:   2014-02-05
 categories: javascript
-snippet: Typescript isn't very well documented yet, but the official spec isn't all we've got either. Here's where I'd recommend you get started.  
+snippet: Typescript isn't very well documented yet, but the official spec isn't all we've got. Here's where I'd recommend you get started.  
 ---
 
 TypeScript is an incredibly helpful tool for helping you write clean, modular JavaScript. But it's young, and [the spec](http://www.typescriptlang.org/Content/TypeScript%20Language%20Specification.pdf) is the only official resource we have from Microsoft. 

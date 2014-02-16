@@ -3,7 +3,7 @@
     <section class="post">
   
   	<h2 class="post-title"> {{ page.title }} </h2>
-    <p class="post-snippet">{{ page.snippet }}</p>
+  	<span class="post-date"> last updated on {{ page.date | date: '%B %d, %Y' }}</span>
 
 	<div class="post-body">
       {{content}}
