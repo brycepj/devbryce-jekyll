@@ -21,7 +21,7 @@ This [4-part series](http://www.johnpapa.net/typescriptpost1/) of blog posts is 
 
 For someone who's just coming to TypeScript, you need a guided tour through the most important features of the language (if we're calling it a language), not a 130-page spec of every nook and cranny. That's for later.
 
-*I'll update this list regularly as I come across other helpful resources. *
+*I'll update this list regularly as I come across other helpful resources.*
 
 
 
