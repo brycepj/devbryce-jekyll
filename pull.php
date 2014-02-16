@@ -1,1 +1,1 @@
-<?php `git pull` `jekyll build`;
+<?php `git pull` `jekyll build`; ?>
