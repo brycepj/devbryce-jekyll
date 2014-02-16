@@ -3,6 +3,7 @@ layout: post
 title:  "Don't start learning TypeScript with the spec"
 date:   2014-02-05
 categories: javascript
+time: 3 min
 snippet: Typescript isn't very well documented yet, but the official spec isn't all we've got. Here's where I'd recommend you get started.  
 ---
 
