@@ -411,9 +411,15 @@ table {
 
 .post {
   display: block;
-  width: 70%;
+  max-width: 900px;
   margin: 1em auto;
   padding: 1em 2em;
+}
+@media only screen and (max-width: 940px) {
+  .post {
+    margin: 1em 1em;
+    padding: 1em 2em;
+  }
 }
 
 /* SWATCH */
@@ -627,7 +633,7 @@ header {
 .page-footer {
   padding: 1em 0;
   margin-top: 2em;
-  box-shadow: -10px 0 2px 3px #66666a;
+  box-shadow: 0 0 2px 3px #66666a;
   background-color: #66666a;
   text-align: center;
 }
@@ -653,6 +659,23 @@ header {
 
 .post-title {
   margin: .85em 0 0 0;
+}
+@media only screen and (max-width: 660px) {
+  .post-title {
+    font-size: 32px;
+    font-size: 2rem;
+    line-height: 36px;
+    line-height: 2.25rem;
+    margin: .25em 0 0 0;
+  }
+}
+@media only screen and (max-width: 370px) {
+  .post-title {
+    font-size: 26.4px;
+    font-size: 1.65rem;
+    line-height: 28.8px;
+    line-height: 1.8rem;
+  }
 }
 
 .post .post-date {
@@ -702,6 +725,44 @@ header {
   font-size: .85em;
   content: "\275E";
   padding-left: .5em;
+}
+@media only screen and (max-width: 420px) {
+  .post-body p {
+    font-size: 21.6px;
+    font-size: 1.35rem;
+    line-height: 25.6px;
+    line-height: 1.6rem;
+    margin: .5em 0;
+  }
+}
+@media only screen and (max-width: 340px) {
+  .post-body p {
+    font-size: 20px;
+    font-size: 1.25rem;
+    line-height: 22.4px;
+    line-height: 1.4rem;
+  }
+}
+.post-body ul {
+  margin-left: 0em;
+  padding: 0 1em;
+}
+@media only screen and (max-width: 420px) {
+  .post-body li {
+    font-size: 21.6px;
+    font-size: 1.35rem;
+    line-height: 25.6px;
+    line-height: 1.6rem;
+    margin: .5em 0;
+  }
+}
+@media only screen and (max-width: 340px) {
+  .post-body li {
+    font-size: 20px;
+    font-size: 1.25rem;
+    line-height: 22.4px;
+    line-height: 1.4rem;
+  }
 }
 .post-body code {
   display: inline-block;
