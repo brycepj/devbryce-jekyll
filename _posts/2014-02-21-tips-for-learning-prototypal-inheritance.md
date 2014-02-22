@@ -19,7 +19,7 @@ It helped me learn prototypal inheritance because almost all of the shorthand sy
 
 You can play around on the playground I linked to above, or check out this [4-part series](http://www.johnpapa.net/typescriptpost1/) by John Papa, which I highly recommend. 
 
-## Read guides written by really smart people:
+## Read guides written by really smart people
 
 There are roughly 400,000 articles out there about prototypal inheritance, only a few of which are actually helpful. Here are four that I loved. I recommend reading them slowly--make sure you understand what's happening in each code sample before moving on to the next one. 
 
