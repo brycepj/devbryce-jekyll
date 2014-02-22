@@ -18,15 +18,13 @@ function MasonryConfig() {
 		$content.masonry({
 			"gutter":20,
 			isFitWidth:true,
-			transitionDuration:'.2s',
+			transitionDuration:'0',
 			itemSelector:'.post-preview',
 			isInitLayout: true
 		});
 	};
 
 }
-
-
 
 
 
