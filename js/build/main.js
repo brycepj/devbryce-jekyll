@@ -10,7 +10,6 @@ $(document).ready(function(){
 })();
 
 
-
 function MasonryConfig() {
 
 	var $content = $('.content');
@@ -20,14 +19,12 @@ function MasonryConfig() {
 			"gutter":20,
 			isFitWidth:true,
 			transitionDuration:'.2s',
-			itemSelector:'.post-preview'
+			itemSelector:'.post-preview',
+			isInitLayout: true
 		});
 	};
 
 }
-
-
-
 
 
 
