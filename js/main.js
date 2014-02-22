@@ -11,11 +11,6 @@ $(document).ready(function(){
 
 
 
-
-
-
-
-
 function MasonryConfig() {
 
 	var $content = $('.content');
@@ -30,6 +25,8 @@ function MasonryConfig() {
 	};
 
 }
+
+
 
 
 
