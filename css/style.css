@@ -405,7 +405,7 @@ table {
   width: 96%;
   max-width: 1250px;
   margin: 0 auto;
-  padding: 0 1em;
+  padding: 0 .25em;
 }
 
 .post {
@@ -474,11 +474,11 @@ table {
 }
 
 .post-title {
-  font-size: 40px;
-  font-size: 2.5rem;
-  line-height: 48px;
-  line-height: 3rem;
-  font-family: 'PT Sans',sans-serif;
+  font-size: 36.8px;
+  font-size: 2.3rem;
+  line-height: 49.6px;
+  line-height: 3.1rem;
+  font-family: 'Arvo',serif;
   font-weight: bold;
   color: #444444;
 }

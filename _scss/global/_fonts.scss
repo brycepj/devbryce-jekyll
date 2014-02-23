@@ -37,9 +37,10 @@
 	color:$black;
 }
 
-%post-title-font{
-	@include font-size(2.5,3);
-	font-family:'PT Sans',sans-serif;
+%post-title-font {
+	@include font-size(2.3,3.1);
+	font-family:'Arvo',serif;
 	font-weight:bold;
 	color:$black;
 }
+
