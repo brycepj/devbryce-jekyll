@@ -17,7 +17,7 @@ There's a good chance you've never heard of [TypeScript](http://typescriptlang.o
 
 It helped me learn prototypal inheritance because almost all of the shorthand syntax (like Classes and Constructors) in TypeScript highlight the important features of prototypal inheritance. I'm still not great with TypeScript, but it really helped me see the bigger picture. 
 
-You can play around on the playground I linked to above, or check out another thing I wrote about [learning TypeScript](http://devbryce.com/javascript/getting-started-with-typescript.html).
+You can play around on the playground I linked to above, or check out [this other thing I wrote about learning TypeScript](http://devbryce.com/javascript/getting-started-with-typescript.html).
 
 ## Read guides written by really smart people
 
