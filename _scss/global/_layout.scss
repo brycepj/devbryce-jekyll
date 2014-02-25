@@ -21,7 +21,14 @@
 	padding:1em 2em;
 
 	@include bp-max(940px) {
-		margin:1em 1em;
+		margin: 1em 1em;
 		padding:1em 2em;
 	}
+
+	@include bp-max(640px) {
+		padding:1em;
+
+	}
+
+
 }
