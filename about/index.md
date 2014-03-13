@@ -11,8 +11,8 @@ This blog is nothing too serious. I just use it to share what I'm learning and h
 
 ## projects
 
-- [My entry](http://devbryce.com/css-off) to the 2013 CSS-OFF (I did not win)
-- [Flexbox Playground](http://nothing.com) - an app I built with Knockout.JS to help people get familiar with the new display property: flexbox.
+- [Flexbox Playground](http://devbryce.com/flexbox) - an app I'm building with Knockout.JS to help people get familiar with the new layout property: flexbox. (in progress)
+- [My entry](http://devbryce.com/css-off) to the 2013 CSS-OFF
 
 ## about this site
 
