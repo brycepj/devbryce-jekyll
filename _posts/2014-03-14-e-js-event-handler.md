@@ -71,6 +71,7 @@ $('#myTable').click(function(e) {
 	var which = e.which //stores the specific key or button that was pressed to fire the event
 });
 
+{% endhighlight %}
 
 So, when the jQuery event handler passes this object automatically, that means all you need to do to access it in your function is pass a parameter called 'event' or 'foo' or 'Cockamemie' or 'e' into your function and refer to it later. 
 
