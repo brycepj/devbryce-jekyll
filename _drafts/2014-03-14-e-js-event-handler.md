@@ -58,6 +58,8 @@ This is what confused me for the longest time. And it's the key to understanding
 
 When a jQuery event handler fires (like `.click()` or `.scroll()` or `.resize()` or `.hover()`), jQuery *automatically* passes details about that event including the name of the element it occured on (in this case, an element with the id 'myTable'), the type of event it was that fired (in this case, 'click'), the time at which the event occurred, and much much more. You can refer to and use these in your function freely, using simple object dot notation.
 
+
+
 For example: 
 {% highlight javascript %}
 
