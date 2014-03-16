@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tips for wrapping Your head around prototypal inheritance"
+title:  "Tips for wrapping your head around prototypal inheritance"
 date:   2014-02-21
 categories: javascript
 time: 4 min
