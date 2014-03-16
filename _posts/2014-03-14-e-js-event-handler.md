@@ -87,7 +87,7 @@ So we'd set an event listener to watch for 'keydown' events, but we only want to
 
 {% highlight javascript %}
 
-$(window).on('keydown', function(e){
+$("#todo-input").on('keydown', function(e){
     if (!e.which === 13) {   //if not the enter key, stop executing the function
     return;                     
 } 
