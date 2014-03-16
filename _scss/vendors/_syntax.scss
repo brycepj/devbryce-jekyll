@@ -23,7 +23,11 @@
         }
 
         & .s1,.s2 {
-         color:rgb(166,226,45);
+         color:rgb(166,226,45); /*quoted text*/
+        }
+
+        & .o {
+            color:rgb(249,39,96); /*equals sign, operators*/
         }
 	}
 
