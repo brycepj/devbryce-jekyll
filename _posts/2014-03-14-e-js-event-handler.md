@@ -3,7 +3,7 @@ layout: post
 title:  "Why is 'e' passed as a parameter in some JavaScript functions?"
 date:   2014-03-14
 categories: javascript
-time: 4 min
+time: 6 min
 snippet: The answer is simple, but 'e' confused me for a while. Here's a practical explanation, along with a few code samples and resources for further reading.   
 ---
 
