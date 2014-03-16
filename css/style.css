@@ -830,7 +830,7 @@ header {
 .highlight .javascript .kd {
   color: #66d9e7;
 }
-.highlight .javascript .s1 {
+.highlight .javascript .s1, .highlight .javascript .s2 {
   color: #a6e22d;
 }
 
