@@ -838,6 +838,10 @@ header {
   color: #f92760;
   /*equals sign, operators*/
 }
+.highlight .javascript .c1 {
+  color: #495d5c;
+  /*comments*/
+}
 
 /* defaults */
 .highlight code, .highlight pre {
