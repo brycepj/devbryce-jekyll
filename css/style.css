@@ -827,6 +827,12 @@ header {
 .highlight .scss .nb, .highlight .scss .err {
   color: #ff4136;
 }
+.highlight .javascript .kd {
+  color: #66d9e7;
+}
+.highlight .javascript .s1 {
+  color: #a6e22d;
+}
 
 /* defaults */
 .highlight code, .highlight pre {
