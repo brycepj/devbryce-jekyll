@@ -6,17 +6,20 @@ categories: javascript
 time: 3 min
 snippet: Certain navigation elements are only useful to users when they're looking for new content. The following is a simple tutorial for making an element fade in as the user scrolls and fadeout as they pause to read.    
 ---
+I was recently working on a long piece of documentation that needed to be scrollable, but it was so long, it would take a user about thirty seconds to scroll from top to bottom. 
 
+I decided to create a table of contents that would appear when the user scrolled, since, we assumed, if they were scrolling, they were ready for new content and a table of contents could help them. 
 
+If you're looking to grab a quick snippet, here it is: 
 
 {% highlight javascript %}
 
 $(function () {
-    var toc = $('.tableOfContents');
+    var el = $('.the-element');
     var fadeTimer;
 
     $(window).scroll(function () {
-        toc.fadeIn();
+        el.fadeIn();
 
         if (fadeTimer) {
             clearTimeout(fadeTimer);
@@ -24,12 +27,16 @@ $(function () {
 
         fadeTimer = setTimeout(function () {
             fadeTimer = 0;
-            toc.fadeOut();
+            el.fadeOut();
         }, 10000);
     });
 });
 
 {% endhighlight %}
+
+If you want to understand how it works, read on. 
+
+You need a timer, 
 
 Interesting way to think about it: http://javascriptweblog.wordpress.com/2010/06/28/understanding-javascript-timers/
 
