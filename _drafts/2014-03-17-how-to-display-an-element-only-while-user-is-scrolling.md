@@ -15,7 +15,6 @@ $(function () {
     var toc = $('.tableOfContents');
     var fadeTimer;
 
-    toc.fadeOut();
     $(window).scroll(function () {
         toc.fadeIn();
 
@@ -29,7 +28,6 @@ $(function () {
         }, 10000);
     });
 });
-
 
 {% endhighlight %}
 
