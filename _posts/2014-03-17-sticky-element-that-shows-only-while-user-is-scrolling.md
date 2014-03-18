@@ -75,13 +75,12 @@ Let's store those values in variables:
 {% highlight javascript %}
 
 $(function () {
-
-    var el = $('.the-element'); //store a reference to the DOM element
-    
-    var elDepth = el.offset().top; //get the element's distance from the top of the page (pixels)
-    
-    var scrollDepth = $(window).scrollTop(); //check how far the user has scrolled
-
+//store a reference to the DOM element
+    var el = $('.the-element'); 
+//get the element's distance from the top of the page (pixels)  
+    var elDepth = el.offset().top; 
+//check how far the user has scrolled  
+    var scrollDepth = $(window).scrollTop(); 
 });
 
 {% endhighlight %}
@@ -131,13 +130,14 @@ Like this:
 {% highlight javascript %}
 
 $(function () {
-
-    var el = $('.the-element'); //select the element
+//select the element
+    var el = $('.the-element'); 
 
     $(window).scroll(function () {
-        el.fadeIn(); //fade it into view when the user scroll
-
-        setTimeout(function () { //wait 5 seconds and fade it out again
+//fade it into view when the user scroll
+        el.fadeIn(); 
+//wait 5 seconds and fade it out again
+        setTimeout(function () { 
             el.fadeOut();
         }, 5000);
 
@@ -160,20 +160,24 @@ Here's how we do it:
 $(function () {
 
     var el = $('.the-element');
-    var fadeTimer; // declare the flag here, so the value persists between events
+// declare the flag here, so the value persists between events    
+    var fadeTimer; 
 
     $(window).scroll(function () {
         el.fadeIn();
-
-        if (fadeTimer) { //if fadeTime returns true, it has already been set...
-            clearTimeout(fadeTimer); //...so we need to clear it, or in other words, deactivate it. 
+//if fadeTime returns true, it has already been set...
+        if (fadeTimer) { 
+ //...so we need to clear it, or in other words, deactivate it. 
+            clearTimeout(fadeTimer);
         }
-
-        fadeTimer = setTimeout(function () { //here, we initialize/re-activate the timeout
-            fadeTimer = 0; // when the timeout is finished, we'll reset its value
-            el.fadeOut(); //and fade out the element
-        }, 10000); //set the timeout to ten seconds
-
+//here, we initialize/re-activate the timeout
+        fadeTimer = setTimeout(function () { 
+// when the timeout is finished, we'll reset its value
+            fadeTimer = 0;
+//and fade out the element 
+            el.fadeOut(); 
+//set the timeout to ten seconds
+        }, 10000); 
     });
 
 });
