@@ -25,7 +25,8 @@ $(function () {
     var el = $('.the-element');
     var elDepth = el.offset().top;
     var fadeTimer;
-
+	var isHovering: boolean = false;
+	
     $(window).scroll(function () {
         el.fadeIn();
 
@@ -50,6 +51,18 @@ $(function () {
                 });
         }
     });
+    
+    el.hover(
+                function() {
+                    isHovering = true;
+                },
+                function() {
+                    isHovering = false;
+                    $(window).trigger('scroll');
+                }
+                );
+
+        }
 
 });
 
@@ -186,7 +199,17 @@ $(function () {
 
 In essence, we've told it to restart the timer every time a scroll event fires. 
 
-Finally, we squish steps one and two together and we're done. 
+## third, we make sure it knows when the user is hovering over the element
+
+It would be very annoying if the element had something clickable on it, and every time the user was about to click something, it disappeared because they were too slow to beat the timeOut.
+
+So, we'll just add a flag `isHovering` to the top, and a hover event listener that will change the flag every time the user's mouse enters and leaves the element.
+
+We also add a small conditional check in the timeOut, to exit the setTimout function if the user is hovering over it. 
+
+Once they stop hovering, we trigger a `scroll` event to start up the timeOut again. 
+
+Finally, we squish it all together and we're done. 
 
 {% highlight javascript %}
 
@@ -195,7 +218,8 @@ $(function () {
     var el = $('.the-element');
     var elDepth = el.offset().top;
     var fadeTimer;
-
+	var isHovering = false;
+	
     $(window).scroll(function () {
         el.fadeIn();
 
@@ -220,6 +244,18 @@ $(function () {
                 });
         }
     });
+    
+    el.hover(
+                function() {
+                    isHovering = true;
+                },
+                function() {
+                    isHovering = false;
+                    $(window).trigger('scroll');
+                }
+                );
+
+        }
 
 });
 
