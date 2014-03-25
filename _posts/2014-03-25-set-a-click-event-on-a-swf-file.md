@@ -4,7 +4,7 @@ title:  "Yes, you can painlessly set a click event on a .swf file"
 date:   2014-03-25
 categories: javascript
 time: 1 min
-snippet: No, you don't have to touch ActionScript or manipulate object params in the DOM if you don't want to. Spoiler alert: 'mousedown', ftw.
+snippet: No, you don't have to touch ActionScript or manipulate object params in the DOM if you don't want to. Spoiler alert, mousedown.
 ---
 Flash is going the way of the dinosaur, but there are still lots of us that need to work with it.
 
