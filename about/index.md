@@ -1,18 +1,17 @@
 ---
 layout: about
 title: hey, thanks for stopping in.
-description: this is the content for the about page
+description: a little about me and what I do.
 published: true
 ---
-I'm a front-end developer for a company that does data visualization web apps for clients in public education. I used to be a copywriter, and I still take on a few freelance writing jobs here and there.
+I'm a front-end developer at a company in Charlottesville, VA that does data visualization web apps for public schools. I used to be a copywriter, and I still take on a few freelance writing jobs here and there.
 
-This blog is nothing too serious. I just use it to share what I'm learning and host the occassional side project. If you want to get a hold of me, I'm on [twitter](http://twitter.com/_brycepj), [linkedIn](http://www.linkedin.com/in/brycepj/), and [email](mailto:brycepj@gmail.com).  
-
+This blog is nothing too serious. I use it to share what I'm learning and host side projects. If you want to get a hold of me, I'm on [twitter](http://twitter.com/_brycepj), [linkedIn](http://www.linkedin.com/in/brycepj/), and [email](mailto:brycepj@gmail.com).  
 
 ## projects
 
-- [Flexbox Playground](http://devbryce.com/flexbox) - an app I'm building with Knockout.JS to help people get familiar with the new layout property: flexbox. (in progress)
-- [My entry](http://devbryce.com/css-off) to the 2013 CSS-OFF
+- [flexbox in 5 minutes](http://devbryce.com/flexbox) - an interactive tour of all the major features of the new CSS property: flexbox. Built using Knockout.js and TypeScript.
+- [My entry](http://devbryce.com/css-off) to the 2013 CSS-OFF. Last updated - Oct 2013
 
 ## about this site
 
