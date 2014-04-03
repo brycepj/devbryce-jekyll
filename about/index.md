@@ -4,14 +4,25 @@ title: hey, thanks for stopping in.
 description: a little about me and what I do.
 published: true
 ---
-I'm a front-end developer at a company in Charlottesville, VA that does data visualization web apps for public schools. I used to be a copywriter, and I still take on a few freelance writing jobs here and there.
+I'm a user interface developer at a company in Charlottesville, VA that does data visualization web apps for public schools.
 
-This blog is nothing too serious. I use it to share what I'm learning and host side projects. If you want to get a hold of me, I'm on [twitter](http://twitter.com/_brycepj), [linkedIn](http://www.linkedin.com/in/brycepj/), and [email](mailto:brycepj@gmail.com).  
+In my spare time I attend the [Central Virginia JavaScript Enthusiasts](http://www.meetup.com/Central-Virginia-Javascript-Enthusiasts-CVJSE/) meetup, hang out with my wife and our two cats--Ruby and Steve--and dedicate myself to finding and frequenting really good pizza restaurants. I also spend a good deal of time daydreaming of selling everything I own and moving to a farm to live completely off the grid forever.
+
+This blog is nothing too serious. I use it to share what I'm learning and host side projects. If you want to get a hold of me, I'm on [twitter](http://twitter.com/_brycepj), [linkedIn](http://www.linkedin.com/in/brycepj/), and [email](mailto:brycepj@gmail.com).
 
 ## projects
 
-- [flexbox in 5 minutes](http://devbryce.com/flexbox) - an interactive tour of all the major features of the new CSS property: flexbox. Built using Knockout.js and TypeScript.
+- [flexbox in 5 minutes](http://devbryce.com/flexbox) - an interactive tour of all the major features of the new CSS property: flexbox. Built using Knockout.js.
 - [My entry](http://devbryce.com/css-off) to the 2013 CSS-OFF. Last updated - Oct 2013
+
+## my skills, if you're in the market
+
+- web standard compliant html(5) and css(3)
+- less and scss, with SMACSS
+- object-oriented, modular javascript
+- most major js tools: jquery, grunt, require...
+- typescript
+- MVVM and MVC (Knockout and Backbone)
 
 ## about this site
 
