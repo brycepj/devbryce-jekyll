@@ -24,6 +24,7 @@ Anyway, this blog is nothing too serious. It's where I share what I'm learning a
 - object-oriented, modular javascript
 - most major js tools: jquery, grunt, require...
 - typescript
+- git, github, bitbucket
 - MVVM and MVC (Knockout and Backbone)
 
 ## pizza restaurants
