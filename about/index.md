@@ -10,7 +10,7 @@ In my spare time I attend the [Central Virginia JavaScript Enthusiasts](http://w
 
  I also spend a good deal of time daydreaming of selling everything I own and moving to a farm to live completely off the grid forever.
 
-Enough rambling. This blog is nothing too serious. It's where I share what I'm learning and host side projects. If you want to get a hold of me, I'm on [twitter](http://twitter.com/_brycepj), [linkedIn](http://www.linkedin.com/in/brycepj/), and [email](mailto:brycepj@gmail.com).
+As for this blog: nothing too serious. It's where I share what I'm learning and host side projects. If you want to get a hold of me, I'm on [twitter](http://twitter.com/_brycepj), [linkedIn](http://www.linkedin.com/in/brycepj/), and [email](mailto:brycepj@gmail.com).
 
 ## projects
 
