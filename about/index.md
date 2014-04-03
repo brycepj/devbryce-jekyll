@@ -6,7 +6,9 @@ published: true
 ---
 I'm a user interface developer at a company in Charlottesville, VA that does data visualization web apps for public schools.
 
-In my spare time I attend the [Central Virginia JavaScript Enthusiasts](http://www.meetup.com/Central-Virginia-Javascript-Enthusiasts-CVJSE/) meetup, hang out with my wife and our two cats--Ruby and Steve--and dedicate myself to finding and frequenting really good pizza restaurants. I also spend a good deal of time daydreaming of selling everything I own and moving to a farm to live completely off the grid forever.
+In my spare time I attend the [Central Virginia JavaScript Enthusiasts](http://www.meetup.com/Central-Virginia-Javascript-Enthusiasts-CVJSE/) meetup, hang out with my wife and our two cats, Ruby and Steve, and dedicate myself to finding and frequenting really good pizza restaurants.
+
+ I also spend a good deal of time daydreaming of selling everything I own and moving to a farm to live completely off the grid forever.
 
 This blog is nothing too serious. I use it to share what I'm learning and host side projects. If you want to get a hold of me, I'm on [twitter](http://twitter.com/_brycepj), [linkedIn](http://www.linkedin.com/in/brycepj/), and [email](mailto:brycepj@gmail.com).
 
