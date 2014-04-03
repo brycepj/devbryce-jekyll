@@ -10,7 +10,7 @@ In my spare time I attend the [Central Virginia JavaScript Enthusiasts](http://w
 
  I also spend a good deal of time daydreaming of selling everything I own and moving to a farm to live completely off the grid forever.
 
-This blog is nothing too serious. It's where I share what I'm learning and host side projects. If you want to get a hold of me, I'm on [twitter](http://twitter.com/_brycepj), [linkedIn](http://www.linkedin.com/in/brycepj/), and [email](mailto:brycepj@gmail.com).
+Anyway, this blog is nothing too serious. It's where I share what I'm learning and host side projects. If you want to get a hold of me, I'm on [twitter](http://twitter.com/_brycepj), [linkedIn](http://www.linkedin.com/in/brycepj/), and [email](mailto:brycepj@gmail.com).
 
 ## projects
 
@@ -19,8 +19,8 @@ This blog is nothing too serious. It's where I share what I'm learning and host 
 
 ## my skills, if you're in the market
 
-- web standard compliant html(5) and css(3)
-- less and scss, with SMACSS
+- web standards compliant html(5) and css(3)
+- less, scss, and SMACSS
 - object-oriented, modular javascript
 - most major js tools: jquery, grunt, require...
 - typescript
