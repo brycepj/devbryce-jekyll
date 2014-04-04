@@ -63,7 +63,10 @@
 
 	& h2 {
 		@include font-size(1.7,1.5);
-		
+
+      &:before {
+        content:"&#163;&#163;"
+      }
 
 	}
 
