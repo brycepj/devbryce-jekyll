@@ -719,6 +719,7 @@ header {
 }
 .post-body h2:before {
   content: "##";
+  padding-right: .35em;
 }
 .post-body blockquote {
   background-color: #dddddd;

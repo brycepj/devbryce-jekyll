@@ -65,7 +65,8 @@
 		@include font-size(1.7,1.5);
 
       &:before {
-        content:"##"
+        content:"##";
+        padding-right:.35em;
       }
 
 	}
