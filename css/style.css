@@ -718,7 +718,7 @@ header {
   line-height: 1.5rem;
 }
 .post-body h2:before {
-  content: "&#163;&#163;";
+  content: "\u00A3\u00A3";
 }
 .post-body blockquote {
   background-color: #dddddd;
