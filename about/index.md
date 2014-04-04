@@ -34,7 +34,7 @@ Anyway, this blog is nothing too serious. It's where I share what I'm learning a
 <blockquote class="twitter-tweet" lang="en"><p>One of them flexbox learning playgrounds :: <a href="http://t.co/GiTomcQzmP">http://t.co/GiTomcQzmP</a></p>&mdash; Chris Coyier (@chriscoyier) <a href="https://twitter.com/chriscoyier/statuses/452165011884879873">April 4, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## pizza restaurants i love
+## pizza
 
 - [Crozet's at the Buddhist Biker Bar](http://cpbbb.com/) - Charlottesville, VA
 - [Shenendoah Pizza](http://www.shenandoahpizza.com/) - Staunton, VA
