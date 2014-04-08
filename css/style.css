@@ -815,6 +815,10 @@ header {
   display: none;
 }
 
+#tweets {
+  margin: 1em 0;
+}
+
 /*BROWSER SUPPORT*/
 /*overrides*/
 .highlight .scss {

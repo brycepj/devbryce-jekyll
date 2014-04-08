@@ -7,6 +7,9 @@ $(document).ready(function(){
    var blogHome = new MasonryConfig();
 	blogHome.initHome();
 
+
+
+
 })();
 
 
@@ -25,12 +28,6 @@ function MasonryConfig() {
 	};
 
 }
-
-
-
-
-
-
 
 
 
