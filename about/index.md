@@ -8,34 +8,15 @@ I'm a user interface developer at a company in Charlottesville, VA that does dat
 
 In my spare time I attend the [Central Virginia JavaScript Enthusiasts](http://www.meetup.com/Central-Virginia-Javascript-Enthusiasts-CVJSE/) meetup, hang out with my wife and our two cats, Ruby and Steve (Jobs), and dedicate myself to finding and frequenting really good pizza restaurants.
 
-I also spend a good deal of time daydreaming of selling everything and moving to a farm to live completely off the grid forever.
+I also daydream about moving to a farm to living completely off the grid forever.
 
-Anyway, this blog is nothing too serious. It's where I share what I'm learning and host side projects. If you want to get a hold of me, I'm on [twitter](http://twitter.com/_brycepj), [linkedIn](http://www.linkedin.com/in/brycepj/), and [email](mailto:brycepj@gmail.com).
+This blog is nothing too serious. It's where I share what I'm learning and host side projects. If you want to get a hold of me, I'm on [twitter](http://twitter.com/_brycepj), [linkedIn](http://www.linkedin.com/in/brycepj/), and [email](mailto:brycepj@gmail.com).
 
 ## projects
 
+- [timeline insights](https://github.com/brycepj/timeline-insights) - an open-source JavaScript library for extracting insights from the Twitter API's user_timeline client-side.
+
 - [flexbox in 5 minutes](http://devbryce.com/flexbox) - an interactive tour of all the major features of the new CSS property: flexbox. Built using Knockout.js.
-
-It was my first major contribution to the web, and got a great response:
-
-<div id="tweets">
-
-<blockquote class="twitter-tweet" lang="en"><p>One of them flexbox learning playgrounds :: <a href="http://t.co/GiTomcQzmP">http://t.co/GiTomcQzmP</a></p>&mdash; Chris Coyier (@chriscoyier) <a href="https://twitter.com/chriscoyier/statuses/452165011884879873">April 4, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" lang="en"><p>nice interactive tutorial on flexbox: <a href="http://t.co/yVD0X01Rsd">http://t.co/yVD0X01Rsd</a></p>&mdash; Ilya Grigorik (@igrigorik) <a href="https://twitter.com/igrigorik/statuses/453210973327736833">April 7, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" lang="en"><p><a href="http://t.co/fEaGonDaka">http://t.co/fEaGonDaka</a> - nice flexbox explanation and generator.</p>&mdash; Christian Heilmann (@codepo8) <a href="https://twitter.com/codepo8/statuses/453077306115112962">April 7, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" lang="en"><p>Still flabbergasted by Flexbox? <a href="https://twitter.com/_devbryce">@_devbryce</a> has a fantastic interactive guide: <a href="http://t.co/Bbt1bHT83M">http://t.co/Bbt1bHT83M</a> to get your head around the essentials.</p>&mdash; Ben Frain (@benfrain) <a href="https://twitter.com/benfrain/statuses/453086215630516224">April 7, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" lang="en"><p>&quot;Flexbox in 5 minutes&quot;, une démo interactive sur CSS3 Flexbox : <a href="http://t.co/scSwUMGAua">http://t.co/scSwUMGAua</a></p>&mdash; alsacreations (@alsacreations) <a href="https://twitter.com/alsacreations/statuses/452364781916553216">April 5, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-</div>
 
 - [My entry](http://devbryce.com/css-off) to the 2013 CSS-OFF. Last updated - Oct 2013
 
@@ -48,7 +29,6 @@ It was my first major contribution to the web, and got a great response:
 - typescript
 - git, github, bitbucket
 - MVVM and MVC (Knockout and Backbone)
-
 
 ## pizza
 
