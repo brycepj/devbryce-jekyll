@@ -23,7 +23,7 @@ function MasonryConfig() {
 			isFitWidth:true,
 			transitionDuration:'0',
 			itemSelector:'.post-preview',
-			isInitLayout: true
+			// isInitLayout: true
 		});
 	};
 
