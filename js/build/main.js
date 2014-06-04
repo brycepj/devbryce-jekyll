@@ -19,7 +19,7 @@ function MasonryConfig() {
 
 	this.initHome = function(){
 		$content.masonry({
-			"gutter":20,
+			gutter:20,
 			isFitWidth:true,
 			transitionDuration:'0',
 			itemSelector:'.post-preview',

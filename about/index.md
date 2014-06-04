@@ -30,6 +30,7 @@ This blog is nothing too serious. It's where I share what I'm learning and host 
 - git, github, bitbucket
 - MVVM and MVC (Knockout and Backbone)
 
+
 ## pizza
 
 - [Crozet's at the Buddhist Biker Bar](http://cpbbb.com/) - Charlottesville, VA
