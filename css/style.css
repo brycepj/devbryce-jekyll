@@ -591,8 +591,8 @@ header {
 
 .post-preview {
   display: inline-block;
+  position: relative;
   width: 80%;
-  height: auto;
   margin: 1.5em 1em;
   padding: .5em 1em;
   border-radius: 5px;
