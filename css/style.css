@@ -405,6 +405,7 @@ table {
   margin: 0 auto;
   padding: 0 .25em;
   min-height: 1000px;
+  text-align: center;
 }
 
 .post {
