@@ -590,7 +590,7 @@ header {
 }
 
 .post-preview {
-  position: relative;
+  display: inline-block;
   width: 80%;
   height: auto;
   margin: 1.5em 1em;
