@@ -404,14 +404,20 @@ table {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  -webkit-box-flex: row;
+  -webkit-flex: row wrap;
+  -ms-flex: row wrap;
+  flex: row wrap;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
   width: 96%;
   margin: 0 auto;
   padding: 0 .25em;
-  min-height: 1000px;
 }
 
 .post {
