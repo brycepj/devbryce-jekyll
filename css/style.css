@@ -590,7 +590,6 @@ header {
 }
 
 .post-preview {
-  display: block;
   position: relative;
   width: 80%;
   height: auto;

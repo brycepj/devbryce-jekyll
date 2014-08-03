@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a8934bc-40ea-4269-a719-e93a7101c538" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_scss/global/_layout.scss" afterPath="$PROJECT_DIR$/_scss/global/_layout.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_scss/modules/_loop.scss" afterPath="$PROJECT_DIR$/_scss/modules/_loop.scss" />
     </list>
     <ignored path="devbryce.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,10 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_layout.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_layout.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_scss/global/_layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25267994" vertical-offset="0" max-vertical-offset="653">
+            <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="615">
               <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
               <folding />
             </state>
@@ -45,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_loop.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_loop.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_scss/modules/_loop.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="1035">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.022970904" vertical-offset="0" max-vertical-offset="1020">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -82,8 +82,8 @@
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/_scss/modules/_post.scss" />
         <option value="$PROJECT_DIR$/about/index.md" />
-        <option value="$PROJECT_DIR$/_scss/modules/_loop.scss" />
         <option value="$PROJECT_DIR$/_scss/global/_layout.scss" />
+        <option value="$PROJECT_DIR$/_scss/modules/_loop.scss" />
       </list>
     </option>
   </component>
@@ -706,18 +706,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_scss/modules/_loop.scss">
+    <entry file="file://$PROJECT_DIR$/_scss/global/_layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="1035">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="615">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_scss/global/_layout.scss">
+    <entry file="file://$PROJECT_DIR$/_scss/modules/_loop.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25267994" vertical-offset="0" max-vertical-offset="653">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.022970904" vertical-offset="0" max-vertical-offset="1020">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
