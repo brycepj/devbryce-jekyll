@@ -16,7 +16,7 @@
 
 .pp-title {
   @extend %pp-title-font;
-  margin: .5em;
+  margin: .5em 0;
 
   &:hover {
     text-decoration: underline;

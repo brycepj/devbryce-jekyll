@@ -606,7 +606,7 @@ header {
 }
 
 .pp-title {
-  margin: .5em;
+  margin: .5em 0;
 }
 .pp-title:hover {
   text-decoration: underline;
