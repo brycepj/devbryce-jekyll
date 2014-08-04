@@ -7,7 +7,8 @@
 
 .content {
 	display:flex;
-    flex:row wrap;
+    flex-wrap: wrap;
+    flex-direction:row;
     justify-content: center;
 	align-content:flex-start;
     width:96%;

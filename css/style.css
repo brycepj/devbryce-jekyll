@@ -404,10 +404,14 @@ table {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-flex: row;
-  -webkit-flex: row wrap;
-  -ms-flex: row wrap;
-  flex: row wrap;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
@@ -590,7 +594,7 @@ header {
 }
 
 .post-preview {
-  display: inline-block;
+  display: block;
   position: relative;
   width: 80%;
   margin: 1.5em 1em;
