@@ -7,7 +7,7 @@ time: 3 min
 snippet: I used to think there were only two ways to stage files with git prior to commiting them-- all at once, or one at a time. Until I found interactive mode.
 ---
 
-I used to think there were only two ways to stage files with git prior to commiting them: `git add filename` -- which stages files one at a time -- and `git commit -am` -- which automatically stages all modified files and commits them. 99% of the time I used the latter, as it far faster and got the job done.
+I used to think there were only two ways to stage files with git prior to commiting them: `git add filename` -- which stages files one at a time -- and `git commit -am` -- which automatically stages all modified files and commits them. 99% of the time I used the latter, as it is far faster and always seemed to get the job done.
 
 This worked well until I started working at a company that cares about its commit histories. It was important that commits articulately describe modifications made, and that unrelated modifications be committed separately. 
 
@@ -15,7 +15,7 @@ To be careful, I started only using `git add filepath` to make sure I wasn't com
 
 It's called interactive mode. Run it with: `git add -i`. 
 
-First thing, you'll be taken to a file that shows all the files you've changed and asks you want you want to stage. 
+First thing, you'll be taken to a file that shows all the files you've changed and asks you what you want to stage. 
 
 It will look something like this: 
 
@@ -34,7 +34,7 @@ What now>
 
 ```
 
-The line at the bottom, "What now" is a prompt for you to tell it what you want. If you want to quickly stage a relevant files, type `u` and `Enter` to update.
+The line at the bottom, "What now" is a prompt for you to tell it what you want. If you want to quickly stage any relevant files, type `u` and `Enter` to update.
 
 Then, in the next prompt, type the numbers associated with the files you want to stage, separated by commas. 
 
@@ -51,7 +51,7 @@ Update>> 2,1
 
 ```
 
-Above, I've opted to stage/add files "2" (README.md) and "1" (.idea/workspace.xml) because they were part of the same general change I was working on (documentation). Now, hit `Enter` again, and you'll get a screen showing you the files you've selected with asterics next to them. Like this: 
+Above, I've opted to stage files "2" (README.md) and "1" (.idea/workspace.xml) because they were part of the same general change I was working on (documentation). Now, hit `Enter` again, and you'll get a screen showing you the files you've selected with asterisks next to them. Like this: 
 
 ```
            staged     unstaged path
