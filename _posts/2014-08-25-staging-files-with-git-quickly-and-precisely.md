@@ -4,7 +4,7 @@ title:  "Staging files with git quickly and precisely in interactive mode"
 date:   2014-08-25
 categories: git
 time: 3 min
-snippet: I used to think there were only two ways to stage files with git prior to commiting them: all at once, or one at a time. Until I found interactive mode.
+snippet: I used to think there were only two ways to stage files with git prior to commiting them-- all at once, or one at a time. Until I found interactive mode.
 ---
 
 I used to think there were only two ways to stage files with git prior to commiting them: `git add filename` -- which stages files one at a time -- and `git commit -am` -- which automatically stages all modified files and commits them. 99% of the time I used the latter, as it far faster and got the job done.
