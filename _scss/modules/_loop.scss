@@ -2,7 +2,7 @@
 
   display: block;
   position: relative;
-  width: 50%;
+  max-width:750px;
   // height:auto;
   margin: 1em 1em 0em 1em;
   padding: .5em 1em;
@@ -12,6 +12,10 @@
   background-color: $white;
   overflow: hidden;
 
+
+  @include bp-max(960px) {
+
+  }
 }
 
 .pp-title {
