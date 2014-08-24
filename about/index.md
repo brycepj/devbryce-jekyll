@@ -4,7 +4,7 @@ title: hey, thanks for stopping in.
 description: a little about me and what I do.
 published: true
 ---
-I'm a software developer at [Maternity Neighborhood](http://maternityneighborhood.com/), where I work mostly on front-end web things.
+I'm a software developer at a pretty rad company, [Maternity Neighborhood](http://maternityneighborhood.com/), where I work mostly on front-end web things.
 
 In my spare time I attend the [Central Virginia JavaScript Enthusiasts](http://www.meetup.com/Central-Virginia-Javascript-Enthusiasts-CVJSE/) meetup, hang out with my wife and our two cats, Ruby and Steve, and seek out really good pizza restaurants.
 
