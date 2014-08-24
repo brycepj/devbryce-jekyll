@@ -36,7 +36,7 @@ What now>
 
 The line at the bottom, "What now" is a prompt for you to tell it what you want. If you want to quickly stage any relevant files, type `u` (or `2`) and `Enter` to update.
 
-If you need to add files that git has never tracked for you (you just created it, for example), you'll want to select the "add untracked" command by typing `a` (or `4`) and `Enter`. Even the following steps are technically directed at previously tracked files, the process is exactly the same for new, previously untracked files.
+If you need to add files that git has never tracked for you (you just created them, for example), select the "add untracked" command by typing `a` (or `4`) and `Enter`. The following steps apply to adding new files as well.
 
 Then, in the next prompt, type the numbers associated with the files you want to stage, separated by commas. 
 
