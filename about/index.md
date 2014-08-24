@@ -16,15 +16,17 @@ This blog is nothing too serious -- it's where I share what I'm learning and hos
 - [flexbox in 5 minutes](http://devbryce.com/flexbox) - an interactive tour of all the major features of the new CSS property: flexbox. Built using Knockout.js.
 - [My entry](http://devbryce.com/css-off) to the 2013 CSS-OFF. Last updated - Oct 2013
 
-## my skills, if you're in the market
+## skills I have and tools I use
 
-- web standards compliant html(5) and css(3)
-- less, scss, and SMACSS
-- object-oriented, modular javascript
-- most major js tools: jquery, grunt, require...
-- typescript
-- git, github, bitbucket
-- MVVM and MVC (Knockout and Backbone)
+- HTML5 and CSS3
+- Less, Sass, Jade and SMACSS
+- Object-oriented, modular JavaScript
+- Most major JS libraries: JQuery, Grunt, Gulp etc
+- CommonJS (Browserify) and AMD (Require)
+- Unix/Bash
+- Typescript, Sweet.js
+- Git & Github/Bitbucket
+- MVVM and MVC (Angular, Knockout, Kendo and Backbone)
 
 ## pizza A-list
 
