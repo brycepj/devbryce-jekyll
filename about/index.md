@@ -4,18 +4,16 @@ title: hey, thanks for stopping in.
 description: a little about me and what I do.
 published: true
 ---
-I'm a user interface developer at a company in Charlottesville, VA that does data visualization web apps for public schools.
+I'm a software developer at [Maternity Neighborhood](http://maternityneighborhood.com/), where I work mostly on front-end web things.
 
-In my spare time I attend the [Central Virginia JavaScript Enthusiasts](http://www.meetup.com/Central-Virginia-Javascript-Enthusiasts-CVJSE/) meetup, hang out with my wife and our two cats, Ruby and Steve, and dedicate myself to finding really good pizza restaurants. I also daydream about moving to a farm and living completely off the grid forever.
+In my spare time I attend the [Central Virginia JavaScript Enthusiasts](http://www.meetup.com/Central-Virginia-Javascript-Enthusiasts-CVJSE/) meetup, hang out with my wife and our two cats, Ruby and Steve, and seek out really good pizza restaurants.
 
-This blog is nothing too serious. It's where I share what I'm learning and host side projects. If you want to get a hold of me, I'm on [twitter](http://twitter.com/_brycepj), [linkedIn](http://www.linkedin.com/in/brycepj/), and [email](mailto:brycepj@gmail.com).
+This blog is nothing too serious -- it's where I share what I'm learning and host side projects. If you want to get a hold of me, I'm on [twitter](http://twitter.com/_brycepj), [linkedIn](http://www.linkedin.com/in/brycepj/), and [email](mailto:brycepj@gmail.com).
 
 ## projects
 
 - [timeline insights](https://github.com/brycepj/timeline-insights) - an open-source JavaScript library for extracting insights from the Twitter API's user_timeline client-side.
-
 - [flexbox in 5 minutes](http://devbryce.com/flexbox) - an interactive tour of all the major features of the new CSS property: flexbox. Built using Knockout.js.
-
 - [My entry](http://devbryce.com/css-off) to the 2013 CSS-OFF. Last updated - Oct 2013
 
 ## my skills, if you're in the market
@@ -27,7 +25,6 @@ This blog is nothing too serious. It's where I share what I'm learning and host 
 - typescript
 - git, github, bitbucket
 - MVVM and MVC (Knockout and Backbone)
-
 
 ## pizza A-list
 
