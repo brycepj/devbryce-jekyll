@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>http://devbryce.com/</loc>
+        <lastmod>2014-08-24T03:48:31+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://devbryce.com/about/index.html</loc>
+        <lastmod>2014-08-24T03:48:31+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://devbryce.com/git/staging-files-with-git-quickly-and-precisely.html</loc>
+        <lastmod>2014-08-24T03:48:31+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://devbryce.com/javascript/set-a-click-event-on-a-swf-file.html</loc>
+        <lastmod>2014-08-24T03:48:31+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://devbryce.com/javascript/sticky-element-that-shows-only-while-user-is-scrolling.html</loc>
+        <lastmod>2014-08-24T03:48:31+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://devbryce.com/javascript/e-js-event-handler.html</loc>
+        <lastmod>2014-08-24T03:48:31+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://devbryce.com/javascript/tips-for-learning-prototypal-inheritance.html</loc>
+        <lastmod>2014-08-24T03:48:31+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://devbryce.com/javascript/getting-started-with-typescript.html</loc>
+        <lastmod>2014-08-24T03:48:31+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://devbryce.com/site/flexbox/</loc>
+        <lastmod>2014-08-24T03:48:31+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://devbryce.com/site/css-off/</loc>
+        <lastmod>2014-08-24T03:48:31+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+</urlset>
